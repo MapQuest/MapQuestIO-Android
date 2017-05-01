@@ -1,3 +1,3 @@
 # MapQuestIO-Android
 
-This ReadMe to be replaced
+https://docs.mapquest.io
